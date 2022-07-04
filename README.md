@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crisiroid
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java Projects
+- 💞️ I’m looking to collaborate on Flutter Projects
 
 <!---
 Crisiroid/Crisiroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
