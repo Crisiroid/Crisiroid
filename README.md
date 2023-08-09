@@ -14,8 +14,6 @@
   Crisiroid
 </h1>
 
----
-
 ### :man_technologist: About Me: :
 <h4>
 	Hey, I'm Amir Sajad, a Flutter developer turned ASP.NET enthusiast.<br />
