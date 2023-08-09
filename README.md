@@ -17,18 +17,11 @@
 ---
 
 ### :man_technologist: About Me: :
-<h4 align="center">
+<h4>
 	Hey, I'm Amir Sajad, a Flutter developer turned ASP.NET enthusiast.<br />
 	Former backend maestro at Beta Design.<br />
 	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
 </h4>
-
----
-
-### :fire: My Main Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Crisiroid&theme=radical&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
 
 ### :hammer_and_wrench: Used Languages :
 <div>
