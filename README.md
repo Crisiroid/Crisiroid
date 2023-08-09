@@ -11,17 +11,16 @@
 	</a>
 </div>
 <h1 align="center">
-  Hello there<br/>
-  I'm Crisiroid
+  Crisiroid
 </h1>
 
 ---
 
 ### :man_technologist: About Me: :
 <h4 align="center">
-	I worked with popular languages such as PHP and Java<br/>
-	I am currently working on ASP.NET and Flutter projects<br/>
-	Student of Hamadan University of Technology<br/>
+	Hey, I'm Amir Sajad, a Flutter developer turned ASP.NET enthusiast.<br />
+	Former backend maestro at Beta Design.<br />
+	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
 </h4>
 
 ---
