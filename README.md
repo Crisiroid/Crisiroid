@@ -21,13 +21,13 @@
 	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
 </h4>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Crisiroid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ٍEnjoy
+### ٍ Enjoy
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
