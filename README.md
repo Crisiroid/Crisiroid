@@ -21,15 +21,21 @@
 	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
 </h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisiroid" alt="crisiroid" /></a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Crisiroid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Crisiroid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Crisiroid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisiroid&show_icons=true&locale=en&layout=compact" alt="crisiroid" /></p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisiroid&show_icons=true&locale=en" alt="crisiroid" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Crisiroid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### :hammer_and_wrench: Used Languages :
 
