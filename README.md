@@ -21,6 +21,16 @@
 	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
 </h4>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisiroid" alt="crisiroid" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisiroid&show_icons=true&locale=en&layout=compact" alt="crisiroid" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisiroid&show_icons=true&locale=en" alt="crisiroid" /></p>
+
 ### :hammer_and_wrench: Used Languages :
 
 <p align="left"> 
