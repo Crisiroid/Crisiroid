@@ -24,7 +24,7 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-WE ARE NOT OK. SEND HELP
+AAAAAAH SHIT... HERE WE GO AGAIN
 
 
 ### :hammer_and_wrench: Used Languages
