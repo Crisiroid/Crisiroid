@@ -1,40 +1,63 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </div>
 
-<div id="badges" align="center">
-	<a href="https://www.instagram.com/trloneloa/">
-  	<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-	</a>
-	<a href="https://www.linkedin.com/in/amir-sajjad-hp-4371351b6/">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
+<div align="center">
+  <a href="https://www.instagram.com/trloneloa/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amir-sajjad-hp-4371351b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
+
 <h1 align="center">
-  Crisiroid
+  🎮 Crisiroid
 </h1>
 
-### :man_technologist: About Me
-<h4>
-	Hey, I'm Amir Sajad, a Flutter developer turned ASP.NET enthusiast.<br />
-	Former backend maestro at Beta Design.<br />
-	With a knack for sleek interfaces and robust backends, I'm all about crafting seamless digital experiences.
-</h4>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Flutter+%26+.NET+Developer;Backend+Maestro;UI%2FUX+Craftsman" alt="Typing SVG" />
+</div>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-AAAAAAH SHIT... HERE WE GO AGAIN
+### 👨‍💻 About Me
 
+Hey, I'm Amir Sajad — Flutter dev turned ASP.NET enthusiast.  
+Former backend maestro at Beta Design.  
+Crafting sleek interfaces & robust backends.  
+Turning coffee ☕ into code since day one.
 
-### :hammer_and_wrench: Used Languages
+---
 
-<p align="center"> 
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-	<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-	<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisiroid&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA" width="400"/>
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+| Flutter | Dart | Go | .NET | C# |
+|---------|------|----|----|-----|
+| <img src="https://skillicons.dev/icons?i=flutter" width="50"/> | <img src="https://skillicons.dev/icons?i=dart" width="50"/> | <img src="https://skillicons.dev/icons?i=go" width="50"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="50"/> | <img src="https://skillicons.dev/icons?i=cs" width="50"/> |
+
+| Azure | SQL Server | Docker | Git | Linux |
+|-------|------------|--------|-----|-------|
+| <img src="https://skillicons.dev/icons?i=azure" width="50"/> | <img src="https://skillicons.dev/icons?i=mssql" width="50"/> | <img src="https://skillicons.dev/icons?i=docker" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Crisiroid&style=flat-square&color=00FFAA" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <i>"AAAAAAH SHIT... HERE WE GO AGAIN"</i>
+</div>
