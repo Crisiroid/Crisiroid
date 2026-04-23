@@ -48,7 +48,7 @@ Turning coffee ☕ into code since day one.
 
 | Azure | SQL Server | Docker | Git | Linux |
 |-------|------------|--------|-----|-------|
-| <img src="https://skillicons.dev/icons?i=azure" width="50"/> | <img src="https://skillicons.dev/icons?i=mssql" width="50"/> | <img src="https://skillicons.dev/icons?i=docker" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=azure" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/> | <img src="https://skillicons.dev/icons?i=docker" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> |
 
 </div>
 
