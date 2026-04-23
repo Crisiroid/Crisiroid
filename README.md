@@ -46,9 +46,9 @@ Turning coffee ☕ into code since day one.
 |---------|------|----|----|-----|
 | <img src="https://skillicons.dev/icons?i=flutter" width="50"/> | <img src="https://skillicons.dev/icons?i=dart" width="50"/> | <img src="https://skillicons.dev/icons?i=go" width="50"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="50"/> | <img src="https://skillicons.dev/icons?i=cs" width="50"/> |
 
-| Azure | SQL Server | Docker | Git | Linux |
-|-------|------------|--------|-----|-------|
-| <img src="https://skillicons.dev/icons?i=azure" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/> | <img src="https://skillicons.dev/icons?i=docker" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> |
+| Azure | Docker | Git | Linux |
+|-------|--------|-----|-------|
+| <img src="https://skillicons.dev/icons?i=azure" width="50"/> | <img src="https://skillicons.dev/icons?i=docker" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> |
 
 </div>
 
